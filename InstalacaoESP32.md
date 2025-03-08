@@ -4,7 +4,7 @@ Instalação das placas na IDE Arduino
 
 Para instalação do grupo de placas, copie o seguinte link:
 ```
-https://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://dl.espressif.com/dl/package_esp32_index.json
 ```
 Abra a IDE do Arduino, Arquivo => Preferências => URLs Adicionais para Gerenciadores de placas => COLAR
 
