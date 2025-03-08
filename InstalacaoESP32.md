@@ -12,10 +12,10 @@ Passo 2
 ------------------------------------------------------------------------------------------------------------------
 Acesse o Menu Ferramentas => Placas => Gerenciador de placas
 
-Procure por ESP8266
+Procure por ESP32
 
 Selecione o botão instalar
 
 Passo 3
 -------------------------------------------------------------------------------------------------------------------
-Acesse o Menu Ferramentas => Placas => ESP8266 BOARDS => Selecione a placa NodeMCU 0.9
+Acesse o Menu Ferramentas => Placas => ESP32 BOARDS => Selecione a placa ESP32 Dev Module
